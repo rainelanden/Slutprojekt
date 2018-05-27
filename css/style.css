@@ -1,11 +1,11 @@
 h1{
-    color: black
+    color: black;      
+    padding-left: 10px;
 }
 
-.cardpadding
-{
-  padding-left: 15px;
-  float: left;
+.cardpadding{
+    border: 1px solid grey;
+    font-family: verdana;
 }
 
 #myBtn {
